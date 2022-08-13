@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">pro-2</string>
+
+    <string name="movie1">The Dark Knight Rises</string>
+    <string name="dec1">Eight years after the Jokers reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.</string>
+    <string name="ret1">8.4/10</string>
+
+    <string name="movie2">Fight Club</string>
+    <string name="dec2">An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.</string>
+    <string name="ret2">8.8/10</string>
+
+    <string name="movie3">Interstellar</string>
+    <string name="dec3">
+        A team of explorers travel through a wormhole in space in an attempt to ensure humanitys survival.
+    </string>
+    <string name="ret3">8.6/10</string>
+
+    <string name="movie4">Inception</string>
+    <string name="dec4">
+    A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
+        </string>
+
+    <string name="ret4">8.8/10</string>
+
+    <string name="movie5">Fury</string>
+    <string name="dec5">
+A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.        </string>
+
+    <string name="ret5">7.5/10</string>
+
+
+</resources>
